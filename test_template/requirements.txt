@@ -1,0 +1,11 @@
+spglib
+ase
+edn_format
+kim_edn
+kim_property>=2.5.5
+kimpy
+wheel
+git+https://github.com/openkim/kim-python-utils
+numpy
+pytz
+requests

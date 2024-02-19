@@ -1,0 +1,5 @@
+@< path("{{TEST_DRIVER_NAME}}") >@ {# FILENAME = pipeline.stdin.tpl #}
+{{species|join(' ')}}
+{{prototype_label}}
+{{dependency}}
+@< MODELNAME >@
